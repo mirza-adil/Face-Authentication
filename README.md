@@ -1,4 +1,4 @@
-# FaceSense AI MVP
+# Face Authentication MVP
 
 Secure face verification with liveness check for Android and iOS, built with **Kotlin Multiplatform (KMP)**.
 
