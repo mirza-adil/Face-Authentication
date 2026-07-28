@@ -1,6 +1,6 @@
 # Face Authentication CMP
 
-Secure face verification with liveness check for Android and iOS, built with **Kotlin Multiplatform (KMP)**.
+Secure face verification with liveness check for Android and iOS, built with **Kotlin Multiplatform (CMP)**.
 
 ---
 ## Demo Video
